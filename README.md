@@ -14,6 +14,7 @@
 ```bash
 docker build -t docker-tweet-gen .
 ```
+You may require `sudo` access.
 
 ### 2. Run the Container
 
